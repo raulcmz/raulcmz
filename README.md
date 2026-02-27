@@ -2,41 +2,40 @@
 
 ## AI Infrastructure & Platform Engineer
 
-I design and operate production-grade AI systems combining cloud-native infrastructure, scalable ML architectures, and DevOps best practices.
+I build and operate production-grade AI systems.
 
-My focus is not on training models —  
-it's on building reliable, observable, and scalable systems around them.
+My work focuses on designing reliable, scalable, and observable infrastructure around machine learning and LLM-based applications — not just training models, but engineering the systems that make them production-ready.
 
 ---
 
 ## 🔧 Core Expertise
 
-- Kubernetes & Helm
-- Cloud Architecture (AWS)
-- Secure Infrastructure & Platform Engineering
+- Kubernetes & Helm (Cloud-Native Architectures)
+- AWS Cloud Infrastructure
 - CI/CD & GitOps
-- Model Serving & RAG Architectures
+- Secure Platform Engineering
+- Model Serving & Retrieval-Augmented Generation (RAG)
 - Observability & System Reliability
 
 ---
 
 ## 🚀 Current Focus
 
-Building a production-ready AI Retrieval Platform:
+Designing and implementing a production-ready AI Retrieval Platform:
 
 - Self-hosted LLM integration
-- Vector search (RAG)
+- Vector search and semantic retrieval
 - API-driven architecture
-- Containerized deployment
-- Kubernetes & Helm packaging
-- Observability and performance instrumentation
+- Containerized services
+- Kubernetes deployment with Helm
+- Monitoring, logging, and performance instrumentation
 
 ---
 
-## 🎯 Professional Direction
+## 🧭 Professional Direction
 
-I am specializing in AI Infrastructure & Platform Engineering —  
-bridging the gap between applied AI and production-ready systems.
+Specializing in AI Infrastructure & Platform Engineering —  
+bridging the gap between applied AI, DevOps, and distributed systems.
 
 ---
 
