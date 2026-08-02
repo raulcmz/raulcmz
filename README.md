@@ -4,7 +4,7 @@
 
 9+ years designing secure platforms for mission-critical, regulated environments (defense sector). Currently building the Kubernetes-native AI/MLOps layer on top of that platform engineering foundation — experiment tracking, model registries, distributed training, LLM serving, and the governance that lets ML teams move fast without breaking compliance.
 
-📍 Madrid, Spain · 🎓 MSc in AI & Deep Learning (in progress) · 🔐 Background in DevSecOps & software supply chain security
+📍 Madrid, Spain · 🎓 MSc in Big Data & AI (2024–2026) · 🔐 Background in DevSecOps & software supply chain security
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 📈 Currently
 
-- Finishing an MSc in AI & Deep Learning while shipping the projects above in production-style patterns (tests, CI, promotion gates).
+- Completed an MSc in Big Data & AI (2024–2026) while shipping the projects above in production-style patterns (tests, CI, promotion gates).
 - Also studying Psychology part-time — it feeds directly into how I think about human-in-the-loop evaluation, model failure modes and building AI systems people actually trust.
 
 ### 📫 Reach me
