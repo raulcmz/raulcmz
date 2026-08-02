@@ -24,6 +24,10 @@
 | [`ai-platform-notes`](https://raulcmz.github.io/ai-platform-notes/) | Public, versioned knowledge base (MkDocs) on ML infrastructure, MLOps, data engineering and DevSecOps-for-ML — written while building the projects above. |
 | [`llm-inference-lab`](https://github.com/raulcmz/llm-inference-lab) | Hands-on GPU inference lab: vLLM serving, CUDA/VRAM validation, latency & throughput benchmarking on remote GPU infrastructure. |
 
+### 🌱 Open source contributions
+
+- [`kellnr/kellnr`](https://github.com/kellnr/kellnr) — [merged fix](https://github.com/kellnr/kellnr/pull/1080) for an OAuth2 callback URL bug (`origin.path` normalization) that broke OIDC login when deploying behind an ingress with a root path.
+
 ### 🧰 Core stack
 
 **Containers & Platform** `Kubernetes` `Docker` `Helm` `ArgoCD` `GitOps`
