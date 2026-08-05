@@ -1,10 +1,10 @@
-# Raúl Cabezas Martínez
+# Hi, I'm Raúl 👋
 
 **Senior Platform / DevSecOps Engineer → AI Infrastructure & MLOps**
 
-9+ years designing secure platforms for mission-critical, regulated environments (defense sector). Currently building the Kubernetes-native AI/MLOps layer on top of that platform engineering foundation — experiment tracking, model registries, distributed training, LLM serving, and the governance that lets ML teams move fast without breaking compliance.
+9+ years designing secure platforms for mission-critical, regulated environments. Currently building the Kubernetes-native AI/MLOps layer on top of that platform engineering foundation — experiment tracking, model registries, distributed training, LLM serving, and the governance that lets ML teams move fast without breaking compliance.
 
-📍 Madrid, Spain · 🎓 MSc in Big Data & AI (2024–2026) · 🔐 Background in DevSecOps & software supply chain security
+📍 Spain · 🎓 MSc in Big Data & AI (2024–2026) · 🔐 Background in DevSecOps & software supply chain security
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🌱 Open source contributions
 
-- [`kellnr/kellnr`](https://github.com/kellnr/kellnr) — [merged fix](https://github.com/kellnr/kellnr/pull/1080) for an OAuth2 callback URL bug (`origin.path` normalization) that broke OIDC login when deploying behind an ingress with a root path.
+- [`kellnr/kellnr`](https://github.com/kellnr/kellnr) — [merged fix](https://github.com/kellnr/kellnr/PR/1080) for an OAuth2 callback URL bug (`origin.path` normalization) that broke OIDC login when deploying behind an ingress with a root path.
 
 ### 🧰 Core stack
 
@@ -46,4 +46,4 @@
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-mart%C3%ADnez-975b5968) · rcabezasmartinez@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-mart%C3%ADnez-975b5968)
