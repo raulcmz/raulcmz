@@ -41,7 +41,7 @@
 
 ### 📈 Currently
 
-- Completed an MSc in Big Data & AI (2024–2026) while shipping the projects above in production-style patterns (tests, CI, promotion gates).
+- Master's in Big Data & AI (2024–2026), pursued in parallel with shipping the projects above in production-style patterns (tests, CI, promotion gates).
 - Also studying Psychology part-time — it feeds directly into how I think about human-in-the-loop evaluation, model failure modes and building AI systems people actually trust.
 
 ### 📫 Reach me
