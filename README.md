@@ -25,7 +25,7 @@
 
 ### 🌱 Open source contributions
 
-- [`kellnr/kellnr`](https://github.com/kellnr/kellnr) — [merged fix](https://github.com/kellnr/kellnr/PR/1080) for an OAuth2 callback URL bug (`origin.path` normalization) that broke OIDC login when deploying behind an ingress with a root path.
+- [`kellnr/kellnr`](https://github.com/kellnr/kellnr) — [merged fix](https://github.com/kellnr/kellnr/pull/1080) for an OAuth2 callback URL bug (`origin.path` normalization) that broke OIDC login when deploying behind an ingress with a root path.
 
 ### 🧰 Core stack
 
